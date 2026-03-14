@@ -1,9 +1,13 @@
 # Student Record Management System
 ## OOC II Lab Assignment - Lab 12
 
+**Assignment:** Lab 12 - SWE 4302-OOC II Lab
+**Student ID:** 230042101
+**Date:** March 14, 2026
+
 ---
 
-## EXECUTIVE SUMMARY
+## SUMMARY
 
 This document presents a comprehensive implementation of a **Student Record Management System** developed as an assignment for the Object-Oriented Concepts II (OOC II) course. The system demonstrates advanced Java programming concepts including **Java Generics**, **Collections Framework**, **Object-Oriented Design Principles**, and **Functional Programming with Streams API**.
 
@@ -181,25 +185,6 @@ Map: {
 
 ---
 
-## 5. SAMPLE DATA
-
-The application demonstrates with 10 students:
-
-| ID | Name | GPA | Gender |
-|----|------|-----|--------|
-| S001 | Aisha Khan | 3.85 | F |
-| S002 | Muhammad Ali | 3.45 | M |
-| S003 | Fatima Ahmed | 3.92 | F |
-| S004 | Hassan Ibrahim | 3.65 | M |
-| S005 | Zainab Mohamed | 3.78 | F |
-| S006 | Omar Abdullah | 3.55 | M |
-| S007 | Sara Johnson | 3.88 | F |
-| S008 | David Smith | 3.42 | M |
-| S009 | Hana Williams | 3.75 | F |
-| S010 | Khalid Brown | 3.98 | M |
-
----
-
 ## 6. CODING PERSPECTIVE FEATURES
 
 ### 6.1 Encapsulation
@@ -325,6 +310,3 @@ All code includes necessary comments explaining the implementation, making it ea
 
 ---
 
-**Assignment:** Lab 12 - SWE 4302-OOC II Lab
-**Student ID:** 230042101
-**Date:** March 14, 2026
